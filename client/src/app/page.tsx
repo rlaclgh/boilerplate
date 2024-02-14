@@ -1,4 +1,5 @@
 "use client";
+import Header from "@/components/header";
 import { useEffect, useState } from "react";
 
 export default function Home() {
@@ -21,8 +22,12 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex justify-center items-center h-screen">
-      <div>{helloWorld}</div>
+    <div>
+      <Header renderCenter={() => <div>메인 페이지</div>} />
+
+      <div className="flex justify-center items-center h-screen">
+        <div>{helloWorld}</div>
+      </div>
     </div>
   );
 }
