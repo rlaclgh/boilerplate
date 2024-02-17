@@ -5,19 +5,19 @@
 
 
 ## 프로젝트
-1. [miniproject_chat](https://github.com/rlaclgh/miniproject_chat)<br/>
+1. [miniproject_chat](https://github.com/rlaclgh/miniproject_chat) (stomp) <br/>
    채팅방 생성 및 채팅 기능을 stomp를 이용해 구현했습니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_chat/assets/46914232/390293a0-5ccd-4ad7-b4f9-0df619ab9654" width="600px"></img>
   
-2. [miniproject_image_upload](https://github.com/rlaclgh/miniproject_image_upload)<br/>
+2. [miniproject_image_upload](https://github.com/rlaclgh/miniproject_image_upload) (presigned url, s3)<br/>
    이미지 업로드 기능을 구현했습니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_image_upload/assets/46914232/42598415-2151-4956-88b1-315309e9f83b" width="600px"></img>
    
-3. [miniproject_server_sent_event](https://github.com/rlaclgh/miniproject_server_sent_event)<br/>
+3. [miniproject_server_sent_event](https://github.com/rlaclgh/miniproject_server_sent_event) (server sent event)<br/>
    Server Sent Event를 채팅을 예시로 구현했습니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_server_sent_event/assets/46914232/c6fa6ccf-3aa0-44ea-9eb0-f36f16879972" width="450px"></img>
 
-4. [miniproject_csv_upload](https://github.com/rlaclgh/miniproject_csv_upload)<br/>
+4. [miniproject_csv_upload](https://github.com/rlaclgh/miniproject_csv_upload) (spring batch)<br/>
    csv 파일로 db에 upload 하는 프로젝트입니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_csv_upload/assets/46914232/4e5092a1-0f1c-43b3-b72e-f62061ba3b36" width="600px"></img>
 
