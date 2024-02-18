@@ -21,7 +21,10 @@
    csv 파일로 db에 upload 하는 프로젝트입니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_csv_upload/assets/46914232/4e5092a1-0f1c-43b3-b72e-f62061ba3b36" width="600px"></img>
 
-
+5. [miniproject_multi_version_table(https://github.com/rlaclgh/miniproject_multi_version_table)
+   게시물 정보를 snapshot으로 관리해 수정 이전의 정보를 보관할 수 있는 프로젝트입니다.
+   <img width="600px" alt="miniproject_multi_version_table_erd" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/050708be-be51-483c-806e-edebc2b1993a">   
+   <img width="600px" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/b2bd7ff4-5ea4-445e-bc18-c3dd1f07b3e6">   
 
 
 
