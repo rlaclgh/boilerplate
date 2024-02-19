@@ -34,6 +34,15 @@
 
    <img src="https://github.com/rlaclgh/miniproject_hierarchy_category/assets/46914232/757de5be-43ca-4ed4-b2b5-3ff648da5a3c" width="300px"></img>
 
+7. [miniproject_funnel](https://github.com/rlaclgh/miniproject_funnel/tree/main) (mixpanel) <br />
+   [mixpanel](https://mixpanel.com/) 을 활용해 funnel 분석하는 프로젝트입니다.
+   <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/7fa051a1-68b6-4fa4-bf0b-a4d961c88a88" width="600px" ></img>
+   
+   <br />
+   
+   <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/9e23d2df-4e06-4fb3-83e8-13e5e4576fbc" width="600px" ></img>
+
+   
 
 ## 실행결과
 
