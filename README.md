@@ -27,6 +27,12 @@
    <img width="600px" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/b2bd7ff4-5ea4-445e-bc18-c3dd1f07b3e6">   
 
 
+6. [miniproject_hierarchy_category](https://github.com/rlaclgh/miniproject_hierarchy_category/tree/main)
+   category table을 계층으로 관리하는 프로젝트입니다.
+   
+   <img src="https://github.com/rlaclgh/miniproject_hierarchy_category/assets/46914232/880f2ae9-3e3c-4661-97ac-88ea5501fd87" width="600px"></img>
+
+   <img src="https://github.com/rlaclgh/miniproject_hierarchy_category/assets/46914232/757de5be-43ca-4ed4-b2b5-3ff648da5a3c" width="300px"></img>
 
 
 ## 실행결과
