@@ -22,7 +22,7 @@
    <img src="https://github.com/rlaclgh/miniproject_csv_upload/assets/46914232/4e5092a1-0f1c-43b3-b72e-f62061ba3b36" width="600px"></img>
 
 5. [miniproject_multi_version_table(https://github.com/rlaclgh/miniproject_multi_version_table)
-   게시물 정보를 snapshot으로 관리해 수정 이전의 정보를 보관할 수 있는 프로젝트입니다.
+   게시물 정보를 snapshot으로 관리해 수정 이전의 정보를 보관할 수 있는 프로젝트입니다. <br /><br />
    <img width="600px" alt="miniproject_multi_version_table_erd" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/050708be-be51-483c-806e-edebc2b1993a">   
    <img width="600px" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/b2bd7ff4-5ea4-445e-bc18-c3dd1f07b3e6">   
 
@@ -35,11 +35,9 @@
    <img src="https://github.com/rlaclgh/miniproject_hierarchy_category/assets/46914232/757de5be-43ca-4ed4-b2b5-3ff648da5a3c" width="300px"></img>
 
 7. [miniproject_funnel](https://github.com/rlaclgh/miniproject_funnel/tree/main) (mixpanel) <br />
-   [mixpanel](https://mixpanel.com/) 을 활용해 funnel 분석하는 프로젝트입니다.
+   [mixpanel](https://mixpanel.com/) 을 활용해 funnel 분석하는 프로젝트입니다. <br /><br />
    <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/7fa051a1-68b6-4fa4-bf0b-a4d961c88a88" width="600px" ></img>
-   
    <br />
-   
    <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/9e23d2df-4e06-4fb3-83e8-13e5e4576fbc" width="600px" ></img>
 
    
