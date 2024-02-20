@@ -41,6 +41,10 @@
    <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/9e23d2df-4e06-4fb3-83e8-13e5e4576fbc" width="600px" ></img>
 
 8. [miniproject_sentry](https://github.com/rlaclgh/miniproject_sentry/tree/main) (sentry) <br />
+
+   [sentry](https://sentry.io/welcome/)를 이용해 client/server error를 tracking하는 프로젝트입니다.   
+
+
    <img width="600" alt="client error" src="https://github.com/rlaclgh/miniproject_sentry/assets/46914232/8bb7545c-1361-4c79-ad87-bacb7630d4ed">
    <br />
    
