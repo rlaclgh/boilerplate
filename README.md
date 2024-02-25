@@ -21,13 +21,13 @@
    csv 파일로 db에 upload 하는 프로젝트입니다.<br/><br/>
    <img src="https://github.com/rlaclgh/miniproject_csv_upload/assets/46914232/4e5092a1-0f1c-43b3-b72e-f62061ba3b36" width="600px"></img>
 
-5. [miniproject_multi_version_table](https://github.com/rlaclgh/miniproject_multi_version_table)
+5. [miniproject_multi_version_table](https://github.com/rlaclgh/miniproject_multi_version_table)   
    게시물 정보를 snapshot으로 관리해 수정 이전의 정보를 보관할 수 있는 프로젝트입니다. <br /><br />
    <img width="600px" alt="miniproject_multi_version_table_erd" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/050708be-be51-483c-806e-edebc2b1993a">   
    <img width="600px" src="https://github.com/rlaclgh/miniproject_multi_version_table/assets/46914232/b2bd7ff4-5ea4-445e-bc18-c3dd1f07b3e6">   
 
 
-6. [miniproject_hierarchy_category](https://github.com/rlaclgh/miniproject_hierarchy_category/tree/main)
+6. [miniproject_hierarchy_category](https://github.com/rlaclgh/miniproject_hierarchy_category/tree/main)   
    category table을 계층으로 관리하는 프로젝트입니다.
    
    <img src="https://github.com/rlaclgh/miniproject_hierarchy_category/assets/46914232/880f2ae9-3e3c-4661-97ac-88ea5501fd87" width="600px"></img>
@@ -40,7 +40,7 @@
    <br />
    <img src="https://github.com/rlaclgh/miniproject_funnel/assets/46914232/9e23d2df-4e06-4fb3-83e8-13e5e4576fbc" width="600px" ></img>
 
-8. [miniproject_sentry](https://github.com/rlaclgh/miniproject_sentry/tree/main) (sentry) <br />
+8. [miniproject_sentry](https://github.com/rlaclgh/miniproject_sentry/tree/main) (sentry)   
 
    [sentry](https://sentry.io/welcome/)를 이용해 client/server error를 tracking하는 프로젝트입니다.   
 
@@ -55,6 +55,15 @@
    
    <img width="400" alt="server error" src="https://github.com/rlaclgh/miniproject_sentry/assets/46914232/2c1ea38d-dfd8-4b52-9c3d-fdad5ab44dea">
    <br />
+
+9. [miniproject_image_product_tag](https://github.com/rlaclgh/miniproject_image_product_tag)   
+    이미지의 특정 좌표에 제품을 태그할 수 있는 프로젝트입니다.   
+   erd   
+<img width="465" alt="product_tag_erd" src="https://github.com/rlaclgh/miniproject_image_product_tag/assets/46914232/483468e9-1999-484e-8bb4-ebc79de10129">
+
+
+<img src="https://github.com/rlaclgh/miniproject_image_product_tag/assets/46914232/0e969efc-6caf-4adb-b8c3-c904a01c88fc" width="600px" ></img>
+   
 
 
 ## 실행결과
